@@ -24,6 +24,7 @@ header img{
     border-radius: 250px;
     border: 10px solid rgb(109, 25, 243);
     width: 300px;
+    
 }
 main{
     margin: 0 auto;
@@ -37,6 +38,7 @@ main h2{
 }
 main img{
     max-width: 100%;
+    border-radius: 50px;
 }
 a{
     color: blueviolet;
